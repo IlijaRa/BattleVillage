@@ -8,6 +8,9 @@ namespace BattleVillage
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        
+        Texture2D StoneBrickSprite;
+        Texture2D DirtPathSprite;
 
         public Game1()
         {
@@ -27,7 +30,8 @@ namespace BattleVillage
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+            StoneBrickSprite = Content.Load<Texture2D>("stonebrick_texture");
+            DirtPathSprite = Content.Load<Texture2D>("dirtpath_texture");
         }
 
         protected override void Update(GameTime gameTime)
@@ -43,8 +47,6 @@ namespace BattleVillage
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-
-            // TODO: Add your drawing code here
 
             base.Draw(gameTime);
         }

@@ -23,3 +23,13 @@ C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\obj\Debug\net6.0
 C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\obj\Debug\net6.0\BattleVillage.pdb
 C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\obj\Debug\net6.0\BattleVillage.genruntimeconfig.cache
 C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\obj\Debug\net6.0\ref\BattleVillage.dll
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\brick_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\dirtpath_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\endstone_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\farmland_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\glowstone_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\goldore_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\prismarine_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\sandstone_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\shroomlight_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\stonebrick_texture.xnb

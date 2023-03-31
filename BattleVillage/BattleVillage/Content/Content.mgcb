@@ -25,6 +25,18 @@
 /processorParam:TextureFormat=Color
 /build:brick_texture.png
 
+#begin dirtpath_texture.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:dirtpath_texture.png
+
 #begin endstone_texture.png
 /importer:TextureImporter
 /processor:TextureProcessor

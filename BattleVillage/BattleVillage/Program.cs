@@ -1,3 +1,3 @@
 ﻿
-using var game = new BattleVillage.Game1();
+using var game = new BattleVillage.Main();
 game.Run();

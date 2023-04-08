@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/mario_textures/mariostone_texture.png</SourceFile>
-  <SourceTime>2023-04-01T11:08:37.7049884+02:00</SourceTime>
-  <DestFile>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/bin/DesktopGL/mario_textures/mariostone_texture.xnb</DestFile>
-  <DestTime>2023-04-02T20:18:47.295256+02:00</DestTime>
+  <SourceFile>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/tank_textures/coat_of_arms_texture.png</SourceFile>
+  <SourceTime>2023-04-02T20:16:41.473138+02:00</SourceTime>
+  <DestFile>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/bin/DesktopGL/Content/tank_textures/coat_of_arms_texture.xnb</DestFile>
+  <DestTime>2023-04-02T20:19:51.9952872+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

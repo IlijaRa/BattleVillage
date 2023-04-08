@@ -181,3 +181,15 @@
 /processorParam:TextureFormat=Color
 /build:tank_textures/class2_tank/yellow_class2_texture.png
 
+#begin tank_textures/coat_of_arms_texture.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:tank_textures/coat_of_arms_texture.png
+

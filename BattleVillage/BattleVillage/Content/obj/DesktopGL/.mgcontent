@@ -18,8 +18,10 @@
     <File>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/tank_textures/class2_tank/green_class2_texture.png</File>
     <File>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/tank_textures/class2_tank/red_class2_texture.png</File>
     <File>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/tank_textures/class2_tank/yellow_class2_texture.png</File>
+    <File>C:/GitHubRepositories/BattleVillage/BattleVillage/BattleVillage/Content/tank_textures/coat_of_arms_texture.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

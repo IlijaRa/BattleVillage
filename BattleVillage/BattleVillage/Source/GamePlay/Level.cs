@@ -11,8 +11,8 @@ namespace BattleVillage.Source.GamePlay
 
         public Level()
         {
-            LeftTank = new LeftTank(new Vector2(200, 400), new Vector2(60, 60), @"tank_textures\\class1_tank\\blue_class1_texture");
-            RightTank = new RightTank(new Vector2(400, 400), new Vector2(60, 60), @"tank_textures\\class1_tank\\red_class1_texture");
+            LeftTank = new LeftTank(new Vector2(304, 568), new Vector2(60, 60), @"tank_textures\\class2_tank\\blue_class2_texture");
+            RightTank = new RightTank(new Vector2(496, 568), new Vector2(60, 60), @"tank_textures\\class2_tank\\red_class2_texture");
         }
 
         public virtual void Update()

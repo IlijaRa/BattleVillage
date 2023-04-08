@@ -1,5 +1,4 @@
-﻿using BattleVillage.Source;
-using BattleVillage.Source.Engine;
+﻿using BattleVillage.Source.Engine;
 using BattleVillage.Source.GamePlay.Level1;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -25,6 +24,8 @@ namespace BattleVillage
         {
             _graphics.PreferredBackBufferWidth = 800;
             _graphics.PreferredBackBufferHeight = 600;
+            //_graphics.IsFullScreen = true;
+
             _graphics.ApplyChanges();
 
             base.Initialize();

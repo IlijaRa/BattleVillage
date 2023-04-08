@@ -37,3 +37,4 @@ C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0
 C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\tank_textures\class2_tank\red_class2_texture.xnb
 C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\tank_textures\class2_tank\yellow_class2_texture.xnb
 C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\mario_textures\greenpipe_texture.xnb
+C:\GitHubRepositories\BattleVillage\BattleVillage\BattleVillage\bin\Debug\net6.0\Content\tank_textures\coat_of_arms_texture.xnb
